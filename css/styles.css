@@ -110,6 +110,10 @@ address {
   color: #404bbf;
 }
 
+.header-contacts-link:focus {
+  color: #404bbf;
+}
+
 /* ---------------------------HERO----------------------------- */
 .hero {
   background-color: #2e2f42;
@@ -136,6 +140,10 @@ address {
 }
 
 .hero-btn:hover {
+  background-color: #404bbf;
+}
+
+.hero-btn:focus {
   background-color: #404bbf;
 }
 
@@ -212,7 +220,7 @@ address {
 .footer-logo {
 }
 
-.footer-logo span {
+.footer-logo-span {
   color: #f4f4fd;
 }
 
